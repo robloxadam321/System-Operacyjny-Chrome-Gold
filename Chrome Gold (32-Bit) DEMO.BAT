@@ -150,7 +150,7 @@ cls
 echo Informacje Uzytkownika 
 echo.
 echo.
-echo Nazwa uzytkownika: %uzytkownik
+echo Nazwa uzytkownika: %uzytkownik%
 echo Haslo: %haslo%
 echo.
 echo.
